@@ -1,0 +1,100 @@
+body {
+    margin:0%;
+}
+table
+{
+    position: fixed ;
+    background-color: lightgrey;
+    width: 100%;
+}
+a
+{
+    color: black;
+    text-decoration: none;
+}
+
+.Freeeze
+{
+    color:hotpink;
+    font-weight: lighter;
+    font-size: 45px;
+    position: relative;
+    left: 120px;
+    display: inline-block;
+}
+
+.home
+{
+    color: hotpink;
+}
+.main
+{
+    background-color: white;
+}
+.main2
+{
+    position: relative;
+    background-color:lightgrey;
+    width: 100%;
+    
+}
+.ice_img
+{
+    margin-left: 30%;
+    margin-top: 70px;
+    width: 750px;
+    height: 530px;
+}
+.inner_1st
+{   
+    top: 30px;
+    position: relative;
+    height: 250px;
+}
+.new
+{
+    position: relative;
+    top: 12px;   
+}
+p
+{
+    color: black;
+    margin-left: 40px;
+}
+h2
+{
+    color: hotpink;
+    margin-left: 40px;
+}
+.dessert
+{
+    margin-right: 50px;
+    width: 250px;
+    height: 200px;
+    float: right;
+}
+
+.lastDiv
+{
+
+    position:sticky;
+    bottom: 16px;
+    background-color:yellowgreen;
+    height: 50px;
+}
+ul
+{
+    text-align: center;
+}
+li
+{
+    line-height: 50px;
+    text-align: center;
+    display: inline;
+    color: whitesmoke;
+    font-size: 22px;
+}
+.all
+{
+    margin-left: 80px;
+}
